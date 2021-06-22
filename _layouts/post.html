@@ -25,16 +25,21 @@ layout: default
     <div class="container">
         <div class="row">
 		<!-- -->
-		<h1 style="color:white">{{ page.title }}</h1>
+<!-- 		<h1 style="color:white">{{ page.title }}</h1>
                     {% comment %}
                         always create a h2 for keeping the margin , Hux
                     {% endcomment %}
                     {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading" style="color:white;weight:600">{{ page.subtitle }}</h2>
-                    {% comment %} endif {% endcomment %}
+                    {% comment %} endif {% endcomment %} -->
 <!-- -->
-<!-- 	   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-heading" style="left: 600px;">
+	   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+		    <div class="tags">
+                        {% for tag in page.tags %}
+                        <a class="tag" title="{{ tag }}">{{ tag }}</a>
+                        {% endfor %}
+                    </div>
                     <h1>{{ page.title }}</h1>
                     {% comment %}
                         always create a h2 for keeping the margin , Hux
@@ -43,7 +48,7 @@ layout: default
                     <h2 class="subheading" style="weight:600">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
 		 </div>
-	   </div>	 -->
+	   </div>	
         </div>
     </div>
 </header>
