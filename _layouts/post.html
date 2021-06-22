@@ -9,7 +9,10 @@ layout: default
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        position: top;
+/*         position: top; */
+	position:fixed; 
+	top:20px; 
+	left:20px;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
     }
 
