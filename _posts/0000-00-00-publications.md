@@ -13,7 +13,8 @@ tags:
 #### Publications
 
 **Hur, J.D.**, Lee-Yoon, A., & Whillans, A.V. (2021) ‘Are They Useful? The Effects of Performance Incentives on the Prioritization of Work versus Personal Ties.’ *Organizational Behavior and Human Decision Processes*
-$\Rightarrow$: [Link](https://www.sciencedirect.com/science/article/pii/S0749597821000492)
+
+⭨: [Link](https://www.sciencedirect.com/science/article/pii/S0749597821000492)
 
 * 百度贴吧：[三叶草国际语](https://tieba.baidu.com/p/6009002082)
 * 知乎专栏：[三叶草国际语概述（V0.6）](https://zhuanlan.zhihu.com/p/46039432)
