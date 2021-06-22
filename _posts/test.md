@@ -7,7 +7,7 @@ author:     Henri Jambo
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - 新闻故事
+    - This is weird
 ---
 
 ![]({{site.baseurl}}/img/logo.png)
