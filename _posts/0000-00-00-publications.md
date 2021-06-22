@@ -13,7 +13,6 @@ tags:
 #### Publications
 
 **Hur, J.D.**, Lee-Yoon, A., & Whillans, A.V. (2021) ‘Are They Useful? The Effects of Performance Incentives on the Prioritization of Work versus Personal Ties.’ *Organizational Behavior and Human Decision Processes*[⇨Link](https://www.sciencedirect.com/science/article/pii/S0749597821000492)
-
 **Hur, J.D.**, Ruttan, R.L., & Shea, C.T (2020). ‘The Unexpected Power of Positivity: Predictions versus Decisions about Advisor Selection.’ *Journal of Experimental Psychology: General*[⇨Link](https://psycnet.apa.org/record/2020-18215-001)
 
 
