@@ -31,6 +31,25 @@ header-img: "img/nyupurple.jpg"
 				{% endfor %}
 			</div>
             <!-- 标签列表 -->
+			<zero-md src="_posts/test.md">
+  <template>
+    <link rel="stylesheet" href="markdown-styles.css">
+    <style>
+      h1 {
+        color: red;
+      }
+    </style>
+    <link rel="stylesheet" href="highlight-styles.css">
+    <style>
+      code {
+        background: yellow;
+      }
+    </style>
+  </template>
+  <script type="text/markdown">
+This is the fall-back markdown that will **only show** when `src` is falsy.
+  </script>
+</zero-md>
 			<div class="post-preview">
 			<a href="{{ site.tags[0][1].url | prepend: site.baseurl }}"> test new ss</a>
 			</div>
