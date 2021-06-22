@@ -21,6 +21,24 @@ header-img: "img/nyupurple.jpg"
 </header>
 
 <!-- Main Content -->
+<body>
+    <textarea id="text-input" oninput="this.editor.update()"
+              rows="6" cols="60">Insert proxied **Markdown** here.</textarea>
+    <div id="preview"> </div>
+    <script src="lib/markdown.js"></script>
+    <script>
+      function Editor(input, preview) {
+        this.update = function () {
+          preview.innerHTML = markdown.toHTML(input.value);
+        };
+        input.editor = this;
+        this.update();
+      }
+      var $ = function (id) { return document.getElementById(id); };
+      new Editor($("text-input"), $("preview"));
+    </script>
+ </body>
+
 <div class="container">
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
