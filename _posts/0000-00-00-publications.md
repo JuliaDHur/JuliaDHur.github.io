@@ -2,12 +2,12 @@
 layout:     post
 title:      三叶语首个版本发布
 subtitle:   v0.6版
-date:       2021-01-02 # Don't change this one, it's a key for mapping
-author:     Julia D. Hur
-header-img: img/nyupurple.jpg
+date:       2021-01-01 # Don't change this one, it's a key for mapping
+author:     Henri Jambo
+header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Publications
+    - Test
 ---
 
 ![]({{site.baseurl}}/img/logo.png)
