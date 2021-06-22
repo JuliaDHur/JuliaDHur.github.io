@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Opportunities
+title:      PUBLICATIONS
 subtitle:   v0.6版
 date:       2021-01-01 # Don't change this one, it's a key for mapping
-author:     Henri Jambo
-header-img: img/post-bg-cook.jpg
+author:     ""
+header-img: img/nyupurple.jpg
 catalog: true
 tags:
     - Opportunities
