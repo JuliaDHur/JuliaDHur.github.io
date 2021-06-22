@@ -12,25 +12,9 @@ tags:
 
 #### Publications
 
-**Hur, J.D.**, Lee-Yoon, A., & Whillans, A.V. (2021) ‘Are They Useful? The Effects of Performance Incentives on the Prioritization of Work versus Personal Ties.’ *Organizational Behavior and Human Decision Processes*[⇨Link](https://www.sciencedirect.com/science/article/pii/S0749597821000492)  
-**Hur, J.D.**, Ruttan, R.L., & Shea, C.T (2020). ‘The Unexpected Power of Positivity: Predictions versus Decisions about Advisor Selection.’ *Journal of Experimental Psychology: General*[⇨Link](https://psycnet.apa.org/record/2020-18215-001)
+**Hur, J.D.**, Lee-Yoon, A., & Whillans, A.V. (2021) ‘Are They Useful? The Effects of Performance Incentives on the Prioritization of Work versus Personal Ties.’ *Organizational Behavior and Human Decision Processes.* [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0749597821000492)  
+**Hur, J.D.**, Ruttan, R.L., & Shea, C.T (2020). ‘The Unexpected Power of Positivity: Predictions versus Decisions about Advisor Selection.’ *Journal of Experimental Psychology: General.* [APA PsycNet Link](https://psycnet.apa.org/record/2020-18215-001)  
+**Hur, J.D.** & Nordgren, L.F. (2019) ‘Who Wants Performance Incentives? Resource Deprivation Increases Aversion to Performance Incentives.’ *Academy of Management Proceedings.* [AOM Link](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.11425abstract). 
 
+#### Work under Review
 
-
-#### 三叶语特点
-
-融合中西语言的人造国际语。
-
-* 单词中含有中文韵母成分（词韵），便于中国人学习和记忆。
-
-* 语音倾向于英文和中文的结合，易于发声。
-
-* 语法简洁，核心部分即谓词变化为固定次序，“将不已在被动”六个字即可概况。
-
-#### 完成进度
-
-* 语音基本完成，完成度99%。
-
-* 语法主体完成，完成度80%。
-
-* 词汇中语辅词基本完成，其它基本词部分完成，完成度<50%。
