@@ -4,7 +4,7 @@ title:      OPPORTUNITIES
 subtitle:   Come and Join Us!
 date:       2021-01-01 # Don't change this one, it's a key for mapping
 author:     ""
-header-img: img/post-bg-cook.jpg
+header-img: img/nyupurple.jpg
 catalog: true
 tags:
     - Opportunities
