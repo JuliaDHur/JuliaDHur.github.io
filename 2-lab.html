@@ -29,23 +29,6 @@ header-img: "img/nyupurple.jpg"
 
 <!-- Simply set the `src` attribute to your MD file and win -->
 <zero-md src="_posts/test.md"></zero-md>
-<body>
-    <textarea id="text-input" oninput="this.editor.update()"
-              rows="6" cols="60">Insert proxied **Markdown** here.</textarea>
-    <div id="preview"> </div>
-    <script src="_posts/test.md"></script>
-    <script>
-      function Editor(input, preview) {
-        this.update = function () {
-          preview.innerHTML = markdown.toHTML(input.value);
-        };
-        input.editor = this;
-        this.update();
-      }
-      var $ = function (id) { return document.getElementById(id); };
-      new Editor($("text-input"), $("preview"));
-    </script>
- </body>
 
 <div class="container">
 	<div class="row">
