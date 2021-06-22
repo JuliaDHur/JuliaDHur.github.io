@@ -32,7 +32,7 @@ header-img: "img/nyupurple.jpg"
 			</div>
             <!-- 标签列表 -->
 			<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
-			<zero-md src="_posts/test.md">
+			<zero-md src="//github.com/jacklin9810/jacklin9810.github.io/blob/master/_posts/test.md">
   <template>
     <link rel="stylesheet" href="markdown-styles.css">
     <style>
@@ -51,9 +51,6 @@ header-img: "img/nyupurple.jpg"
 This is the fall-back markdown that will **only show** when `src` is falsy.
   </script>
 </zero-md>
-			<div class="post-preview">
-			<a href="{{ site.tags[0][1].url | prepend: site.baseurl }}"> test new ss</a>
-			</div>
 			{% for tag in site.tags %}
 			<div class="one-tag-list">
 			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
