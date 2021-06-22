@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      三叶语首个版本发布
+title:      Opportunities
 subtitle:   v0.6版
 date:       2021-01-01 # Don't change this one, it's a key for mapping
 author:     Henri Jambo
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Test
+    - Opportunities
 ---
 
 ![]({{site.baseurl}}/img/logo.png)
