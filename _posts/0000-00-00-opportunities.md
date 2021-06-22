@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Publications
-subtitle:   v0.6版
+title:      OPPORTUNITIES
+subtitle:   Come and Join Us!
 date:       2021-01-01 # Don't change this one, it's a key for mapping
-author:     Henri Jambo
+author:     ""
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Publications
+    - Opportunities
 ---
 
 ![]({{site.baseurl}}/img/logo.png)
