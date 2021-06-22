@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      PUBLICATIONS
-subtitle:   v0.6版
+subtitle:   ""
 date:       2021-01-01 # Don't change this one, it's a key for mapping
 author:     ""
 header-img: img/nyupurple.jpg
 catalog: true
 tags:
-    - Opportunities
+    - Publications
 ---
 
 ![]({{site.baseurl}}/img/logo.png)
