@@ -29,3 +29,7 @@ tags:
 Kang, S.H., **Hur, J.D.** & Kilduff, G.J. ‘Goal Conflicts in Negotiation’ (R&R, Journal of Applied Psychology)
 
 **Hur, J.D.** & Ruttan, R.L. ‘The Illusion of Linear Social Progress’ (Under review)
+
+**Hur, J.D.** & Han, X. ‘Social Prototypes and Racial Pay Discrimination’ (Under Review) 	
+
+**Hur, J.D.**, Ruttan, R.L., & Lin, J. ‘Remote Work, Identification, and Commitment’ (Under Review)
