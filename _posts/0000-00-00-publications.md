@@ -26,9 +26,9 @@ tags:
 
 **Hur, J.D.** & Lin, J. ‘The Impact of High-status Minority Members on Diversity Goals’ (R&R, Organization Science)
 
-Kang, S.H., **Hur, J.D.** & Kilduff, G.J. ‘Goal Conflicts in Negotiation’ (R&R, Journal of Applied Psychology)
+**Hur, J.D.** & Ruttan, R.L. ‘The Illusion of Linear Social Progress’ (R&R, Personality and Social Psychology Bulletin)
 
-**Hur, J.D.** & Ruttan, R.L. ‘The Illusion of Linear Social Progress’ (Under review)
+Kang, S.H., **Hur, J.D.** & Kilduff, G.J. ‘Goal Conflicts in Negotiation’ (R&R, Journal of Applied Psychology)
 
 **Hur, J.D.** & Han, X. ‘Social Prototypes and Racial Pay Discrimination’ (Under Review) 	
 
