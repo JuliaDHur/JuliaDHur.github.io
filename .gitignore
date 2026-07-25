@@ -36,3 +36,5 @@ _site
 
 # jekyll
 .jekyll-cache
+.bundle/
+vendor/
