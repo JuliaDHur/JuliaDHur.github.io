@@ -33,6 +33,8 @@ Temporary Items
 
 # debug file
 _site
+_site_preview
+_lab_preview.html
 
 # jekyll
 .jekyll-cache
