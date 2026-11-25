@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="google-site-verification" content="xBT4GhYoi5qRD5tr338pgPM5OWHHIDR6mNg1a3euekI">
+  <meta name="theme-color" content="#f6f3fa">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Julia D. Hur</title>
+  <link rel="canonical" href="https://juliadhur.com{{ page.url | replace: 'index.html', '' }}">
+  <link rel="icon" href="{{ site.baseurl }}/img/favicon.ico">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/academic.css?v=20261125">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="site-width navigation">
+      <a class="site-brand" href="{{ site.baseurl }}/">Julia D. Hur</a>
+      <nav aria-label="Main navigation">
+        <a href="{{ site.baseurl }}/"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ site.baseurl }}/research/"{% if page.url == '/research/' %} aria-current="page"{% endif %}>Research</a>
+        <a href="{{ site.baseurl }}/lab/"{% if page.url == '/lab/' %} aria-current="page"{% endif %}>Lab</a>
+      </nav>
+    </div>
+  </header>
+  {{ content }}
+  <footer class="site-footer"><div class="site-width">Copyright &copy; Julia D. Hur {{ site.time | date: '%Y' }}</div></footer>
+  {% if site.service-worker %}<script>if ('serviceWorker' in navigator) { navigator.serviceWorker.register('{{ site.baseurl }}/sw.js').catch(function () {}); }</script>{% endif %}
+</body>
+</html>
