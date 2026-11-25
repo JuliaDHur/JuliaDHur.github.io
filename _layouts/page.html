@@ -1,89 +1,33 @@
 ---
-layout: default
+layout: academic
 ---
-<!-- Page Header -->
-<!-- <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-				    background-repeat: repeat;
-				    background-size: 100px 100px;
-				    height: 90px;">
-    <div class="container">
-        <div class="row">
-		<div class="site-heading">
-		</div>
-        </div>
-    </div>
-</header> -->
-
-<!-- <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-				    background-repeat: repeat;
-				    background-size: 100px 100px;
-				    height: 90px;">
-    <div class="container">
-        <div class="row">
-		<div class="site-heading">
-		</div>
-        </div>
-    </div>
-</header> -->
-
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
-                <div class="site-heading">
-                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <hr class="small">
-                     <span class="subheading" style="font-size:20pt;weight:600">New York University</span>
-                </div>
-            </div>
-        </div>
-    </div>
+<header class="page-hero home-hero">
+  <div class="site-width">
+    <p class="eyebrow">New York University</p>
+    <h1>Julia D. Hur</h1>
+    <p class="hero-role">Global Network Associate Professor of Management and Organizations<br>Affiliated with the Stern School of Business</p>
+  </div>
 </header>
-<!-- Main Content Test -->
-<div class=page-body>
-	<span class="js-widget-page d-none"></span>
-	<section id=welcome class="home-section wg-hero">
-		<div class=home-section-bg></div>
-		<div class=container>
-			<div class=row>
-				<div class="col-12 col-md-4">
-					<br>
-					<img src="/img/julia_20261026_square.png" alt="Julia D. Hur" style="width: 100%;height: 100%;object-fit:contain;"> <!-- width=300 height=385 -->
-					<br>
-					<br>
-					<a href="//www.stern.nyu.edu/faculty/bio/julia-hur"
-					   style="color:#4B0082;font-zie:20pt"
-					   target="_blank"> NYU-Stern Faculty Profile <strong>&#8594;</strong> </a>
-					<br>
-					<a href="//shanghai.nyu.edu/academics/faculty/directory/julia-hur"
-					   style="color:#4B0082;font-zie:20pt"
-					   target="_blank"> NYU-Shanghai Faculty Profile <strong>&#8594;</strong> </a>
-					<br>
-					<a href="//www.linkedin.com/in/juliadhur"
-					   style="color:#4B0082;font-zie:20pt"
-					   target="_blank"> Linkedln Profile <strong>&#8594;</strong> </a>
-					<br>
-					<a href="//www.psychologytoday.com/us/blog/gim-goals-incentives-and-meritocracy"
-					   style="color:#4B0082;font-zie:20pt"
-					   target="_blank"> Psychology Today Profile <strong>&#8594;</strong> </a>
-					<br>
-					<a href="{{site.baseurl}}/Hur_CV_Oct2026.pdf"
-					   style="color:#4B0082;font-zie:20pt"
-					   target="_blank"> CV (PDF) <strong>&#8594;</strong> </a>
-				</div>
-				<div class="col-12 col-md-8 text-left text-md-right" > <!-- style="left:100px" -->
-					<div class=hero-lead>
-						<p style=font-family:sans-serif;font-size:15pt;line-height:150%>
-							<!-- Here start to edit your bio!!--><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
-							<strong>Julia D. Hur</strong> <!-- Bold fonts included between these two "strong" signs -->
-							is a Global Network Associate Professor of Management and Organizations at NYU, affiliated with the Stern School of Business. She holds a PhD in Management and Organizations from the Kellogg School of Management at Northwestern University and an MA in Social Sciences from the University of Chicago. Professor Hur has taught courses on leadership, decision-making, and negotiation at the Kellogg School of Management and the Stern School of Business. She has taught courses for the Executive MBA, MBA, and undergraduate programs, and has provided consulting services to executives and professionals across various industries, including financial, automotive, and retail.
-							<br/><br/>
-
-							Professor Hur’s research interests include motivation, incentives, and individual and organizational decision-making. She examines how individuals’ motivation and cognition are shaped by environmental factors, including rewards, social comparison, and organizational decisions. She employs a multi-method approach, utilizing field studies, laboratory experiments, and archival data. Her work has been published in top academic journals in the fields of Management, Marketing, and Psychology, including the Journal of Personality and Social Psychology, Journal of Applied Psychology, Journal of Experimental Psychology: General, Organization Science, Organizational Behavior and Human Decision Processes, Journal of Consumer Research, and Personality and Social Psychology Bulletin. Her research has been featured in The New York Times, The Wall Street Journal, Forbes, The Harvard Business Review, and other prominent media outlets.
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-</div>
+<main id="main-content" class="site-width home-grid">
+  <aside class="profile" aria-label="Faculty profiles and curriculum vitae">
+    <img class="profile-photo" src="{{ site.baseurl }}/img/julia_20261026_square.png" alt="Julia D. Hur" width="1254" height="1254" fetchpriority="high">
+    <ul class="profile-links">
+      <li><a href="https://www.stern.nyu.edu/faculty/bio/julia-hur" target="_blank" rel="noopener noreferrer">NYU-Stern Faculty Profile</a></li>
+      <li><a href="https://shanghai.nyu.edu/academics/faculty/directory/julia-hur" target="_blank" rel="noopener noreferrer">NYU-Shanghai Faculty Profile</a></li>
+      <li><a href="https://www.linkedin.com/in/juliadhur" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a></li>
+      <li><a href="https://www.psychologytoday.com/us/blog/gim-goals-incentives-and-meritocracy" target="_blank" rel="noopener noreferrer">Psychology Today Profile</a></li>
+    </ul>
+    <a class="cv-button" href="{{ site.baseurl }}/Hur_CV_Oct2026.pdf" target="_blank" rel="noopener noreferrer">CV <span>(PDF)</span></a>
+  </aside>
+  <div class="biography">
+    <section aria-labelledby="about-heading">
+      <h2 class="section-title" id="about-heading">About</h2>
+      <p><strong>Julia D. Hur</strong> <!-- Bold fonts included between these two "strong" signs -->
+							is a Global Network Associate Professor of Management and Organizations at NYU, affiliated with the Stern School of Business. She holds a PhD in Management and Organizations from the Kellogg School of Management at Northwestern University and an MA in Social Sciences from the University of Chicago.</p><p>Professor Hur has taught courses on leadership, decision-making, and negotiation at the Kellogg School of Management and the Stern School of Business. She has taught courses for the Executive MBA, MBA, and undergraduate programs, and has provided consulting services to executives and professionals across various industries, including financial, automotive, and retail.</p>
+    </section>
+    <section aria-labelledby="research-heading">
+      <h2 class="section-title" id="research-heading">Research</h2>
+      <p>Professor Hur’s research interests include motivation, incentives, and individual and organizational decision-making. She examines how individuals’ motivation and cognition are shaped by environmental factors, including rewards, social comparison, and organizational decisions. She employs a multi-method approach, utilizing field studies, laboratory experiments, and archival data.</p><p>Her work has been published in top academic journals in the fields of Management, Marketing, and Psychology, including the <em>Journal of Personality and Social Psychology</em>, <em>Journal of Applied Psychology</em>, <em>Journal of Experimental Psychology: General</em>, <em>Organization Science</em>, <em>Organizational Behavior and Human Decision Processes</em>, <em>Journal of Consumer Research</em>, and <em>Personality and Social Psychology Bulletin</em>.</p><p>Her research has been featured in <em>The New York Times</em>, <em>The Wall Street Journal</em>, <em>Forbes</em>, <em>The Harvard Business Review</em>, and other prominent media outlets.</p>
+    </section>
+  </div>
+</main>
